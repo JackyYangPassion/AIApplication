@@ -15,3 +15,4 @@ For AI  Application Develop
 
 - [OPENAI 文档](https://platform.openai.com/docs/api-reference/introduction)
 - [deepseek 文档](https://api-docs.deepseek.com/zh-cn/api/deepseek-api)
+- [cursor rule 文档](https://cursor.directory/)
